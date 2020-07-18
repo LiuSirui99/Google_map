@@ -26,6 +26,29 @@ The task is divided into three parts:
 
 ```
 
+## Notes
+### Image map:
+
+If you convert a map from vector format to raster, do not forget that the color model should be RGB, because the map will be presented on monitors.
+
+You should determine the size of your image map before making it, considering the size of oyur website and the space that you have selected to show the image map. If you made the image map, you cannot change its size, because in that case the coordinates determined for each clickable area will not match their new position in the new size. If you change the size, you should make again the image map.
+
+
+### Google Fusion Tables or Google My Maps map:
+
+In Google My Maps, do not forget to use „Set default view” to save the current size of your map. In other case, the application will show the map in an arbitrary size.
+
+The map made using one of these applications should be embedded to your website, using the HTML code given by the application. Before copying the HTML code, verify the size of the map, because you can change it if needed.
+
+Do not forget to make public your map before sending the link…
+
+### Website:
+
+The design of the pages within our website should be uniform, that is: use the same (or at least similar) font types, sizes, colours, backgrounds, etc.
+
+The starting page should remain accessible from any page of our website (e.g. using an always visible link)
+
+
 
 
 ## Contributing
