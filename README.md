@@ -7,7 +7,9 @@ My website in master degree semester 1
 
 
 ## Installation
-- All the `code` required to get started
+- Download the `EHtml2_4.exe` to get started 
+- Google map can be seen at <a href="https://www.google.com/maps/d/edit?mid=1z3I_Z1Aq1-JYesrsyNGtABEHNJYlOgIt&usp=sharing" target="_blank">`https://www.google.com/maps/d/edit?mid=1z3I_Z1Aq1-JYesrsyNGtABEHNJYlOgIt&usp=sharing`</a>.
+
 
 ### Clone
 
@@ -32,6 +34,8 @@ The task is divided into three parts:
 If you convert a map from vector format to raster, do not forget that the color model should be RGB, because the map will be presented on monitors.
 
 You should determine the size of your image map before making it, considering the size of oyur website and the space that you have selected to show the image map. If you made the image map, you cannot change its size, because in that case the coordinates determined for each clickable area will not match their new position in the new size. If you change the size, you should make again the image map.
+
+Useful website <a href="https://www.image-map.net/">`https://www.image-map.net/`</a>
 
 
 ### Google Fusion Tables or Google My Maps map:
